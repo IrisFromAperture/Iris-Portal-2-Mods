@@ -1,0 +1,5 @@
+Automatically changes ihud highlight colors from SAR to match their bot. 
+Atlas has a general blue highlight along with m1/m2 corresponding to his portal colors. 
+P-body has a general orange highlight along with m1/m2 corresponding to her portal colors.
+
+If you want to change any of these colors, for example if you change their portal colors, you can open the .cfg file in a text editor such as notepad or VS code and change the preloaded hex code.
