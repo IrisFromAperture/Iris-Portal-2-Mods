@@ -6,3 +6,14 @@ Files are organized by mod type (texture, sound, particle, etc.), then by what t
 
 Other files such as .cfg files are in a separate folder from mods, but otherwise organized using the same system.
 
+# Downloading and Installing Files
+## Mods
+1. Open the folder for the mod you would like. Download the zip file titled "portal2_dlc3", unzip it, and move it to a place where you can easily access it (desktop, separate file explorer window, whatever works for you).
+2. Go to the Portal 2 page in Steam, click the settings icon on the right, and go to Manage > Browse Local Files. It should bring you to a file titled "Portal 2" (Case sensitive. Inside "Portal 2" there is a folder titled "portal2". Don't open that one, it's not needed for downloading these mods).
+3. Inside "Portal 2" there should be folders titled "portal2_dlc#". If you have a folder titled "portal2_dlc3", increment the number on the folder you downloaded from here by 1 (and if you already have "portal2_dlc4" increment it again, and so on)
+4. Place the folder you downloaded from here into your "Portal 2" folder
+5. Launch the game, and you should be set.
+
+## .cfg Files
+to-do once I add some lol
+
