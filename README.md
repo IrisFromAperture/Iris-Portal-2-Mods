@@ -12,8 +12,7 @@ Other files such as .cfg files are in a separate folder from mods, but otherwise
 ## Mods
 1. Open the folder for the mod you would like. Download the zip file titled `portal2_dlc3`, unzip it, and move it to a place where you can easily access it (desktop, separate file explorer window, whatever works for you).
 2. Open your game files
-3. Inside `Portal 2` there should be folders titled `portal2_dlc#`. If you have a folder titled `portal2_dlc3`, increment the number on the folder you downloaded from here by 1 (and if you already have `portal2_dlc4` increment it again, and so on)
-   Extra note: you want to create a `portal2_dlc#` folder because those override the base textures, if you replace the `pak01_dir` folder in `portal2`, `portal2_dlc1`, or `portal2_dlc2` it can start breaking things, because you are erasing every single base game files instead of overwriting a couple.
+3. Inside `Portal 2` there should be folders titled `portal2_dlc#`. If you have a folder titled `portal2_dlc3`, increment the number on the folder you downloaded from here by 1 (and if you already have `portal2_dlc4` increment it again, and so on) \nExtra note: you want to create a `portal2_dlc#` folder because those override the base textures, if you replace the `pak01_dir` folder in `portal2`, `portal2_dlc1`, or `portal2_dlc2` it can start breaking things, because you are erasing every single base game files instead of overwriting a couple.
 5. Place the folder you downloaded from here into your `Portal 2` folder
 6. Launch the game, and you should be set.
 
