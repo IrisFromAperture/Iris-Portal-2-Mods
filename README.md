@@ -25,6 +25,9 @@ These instructions apply to files under the `.cfg` folder.
 
 To run .cfg files, all you need to do is open the console and type `exec ` followed by the name of the file you want to run.
 
+## Other Files
+Files under the `Other Mods` folder will contain instructions on how to download them, including any other important information about them.
+
 # Basic Tutorials
 ## Opening Game Files
 1. Open Steam and find Portal 2 in your games library
