@@ -10,7 +10,7 @@ Other files such as .cfg files are in a separate folder from mods, but otherwise
 
 # Downloading and Installing Files
 ## Mods
-These instructions apply to files under the `Textures`, `Sounds`, `Particles`, and `Models` folders.
+These instructions apply to files under the `Textures`, `Sounds`, `Particles`, and `Models` folders. Files under the `Other Mods` folder will contain instructions on how to download them, including any other important information about them.
 1. Open the folder for the mod you would like. Download the zip file named after the mod, unzip it, and move it to a place where you can easily access it (desktop, separate file explorer window, whatever works for you).
 2. Open your game files
 3. Inside `Portal 2` there should be folders titled `portal2_dlc#`. If you have a folder titled `portal2_dlc3`, increment the number on the folder you downloaded from here by 1 (and if you already have `portal2_dlc4` increment it again, and so on) **IMPORTANT NOTE**: you want to create a `portal2_dlc#` folder because those override the base textures, if you replace the `pak01_dir` folder in `portal2`, `portal2_dlc1`, or `portal2_dlc2` it can start breaking things, because you are erasing every single base game files instead of overwriting a couple.
@@ -24,9 +24,6 @@ These instructions apply to files under the `.cfg` folder.
 3. Drop all the .cfg files into that folder.
 
 To run .cfg files, all you need to do is open the console and type `exec ` followed by the name of the file you want to run.
-
-## Other Files
-Files under the `Other Mods` folder will contain instructions on how to download them, including any other important information about them.
 
 # Basic Tutorials
 ## Opening Game Files
