@@ -1,0 +1,16 @@
+This changes the in-game chat in coop mode to display certain characters as custom emojis
+NOTE: this is mainly here as a demonstration of what can be done, it is not fully complete. 
+
+Installation:
+1. download the file and follow installation instructions in the README file
+2. inside the "portal2_dlc3" folder is a file titled "Universemoji.vfont". Copy the file, and paste it inside "Portal 2/platform/vgui/fonts/"
+
+Uninstallation:
+1. delete the "Universemoji.vfont" file from "Portal 2/platform/vgui/fonts/"
+2. move the "portal2_dlc#" folder out of your Portal 2 directory
+
+Extra Notes:
+Both the installation and deletion instructions are included inside the "portal2_dlc3" folder, along with a copy of "Universemoji.vfont".
+It is important to copy and paste the vfont file instead of moving it due to ease of removal and installation. You can drag it, but it'll take longer.
+If you plan on submitting a speedrun, not removing "Universemoji.vfont" from your game files will get your run flagged and potentially invalidated.
+If you choose to deactivate the mod and don't plan on submitting a speedrun, you do not have to delete "Universemoji.vfont".
