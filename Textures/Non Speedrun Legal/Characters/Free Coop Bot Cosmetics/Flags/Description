@@ -1,4 +1,5 @@
 Retextures the WCC flag to have any of the flags that you can find in the Robot Enrichment section in the main menu, also reference the Market for flag names.
 The only exception for names is "Coop Bots Aperture Flag", which contains another skin for the bots not availible in the market.
+Unfortunately I had to exclude The Ball Flag and the Cogs Flag, due to their odd shape they would look weird on the triangular flag model
 
 Note: You need to have the WCC flag equipped, it can be aquired for free by completing the "High Five" achievement, https://theportalwiki.com/wiki/WCC_Flag
