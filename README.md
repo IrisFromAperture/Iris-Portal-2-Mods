@@ -1,5 +1,5 @@
 # Iris-Portal-2-Mods
-Texture, sound, particle mods for portal 2, along with anything else helpful I have, such as .cfg files and potentially some better SAR documentation in the future.
+Texture, sound, particle mods for portal 2, along with anything else helpful I have, such as .cfg files and potentially some program ideas I have.
 
 **IMPORTANT NOTE FOR SPEEDRUNNERS:** The only files in this repo that are legal for speedrunning are the ones in `Textures/Speedrun Legal/`. Every other file in here is ILLEGAL for official speedruns unless it SPECIFICALLY SAYS SO IN THE MOD DESCRIPTION!!
 
