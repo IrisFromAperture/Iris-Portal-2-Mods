@@ -1,7 +1,10 @@
-Automatically changes ihud highlight colors from SAR to match their bot. 
+NOTE: These files ARE speedrun legal, because they are cosmetic. If you modify them outside of changing the colors, I cannot confirm they will still be speedrun legal.
+
+Automatically changes ihud highlight colors from SAR to match their bot.
 Atlas has a general blue highlight along with m1/m2 corresponding to his portal colors. 
 P-body has a general orange highlight along with m1/m2 corresponding to her portal colors.
 
 To utilize these files, make sure that you have SAR installed and ihud is enabled (disabled by default), then run them in console. 
+To use them for solo coop, make sure you have srconfigs installed and go to "Portal 2/portal2/cfg/srconfigs" and open the file titled "aliases.cfg". Scroll down to lines 106 and 107, and replace the "sar_ihud_modify all highlight=######" command with "exec _____" using the corresponding bot name. Save and close, and the ihud highlight colors will update in real time as you switch between bots.
 
 If you want to change any of these colors, for example if you change their portal colors, you can open the .cfg file in a text editor such as notepad or VS code and change the preloaded hex code.
